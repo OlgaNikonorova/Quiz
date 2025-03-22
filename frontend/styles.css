@@ -1,0 +1,24 @@
+@import "./public/css/colors.css";
+@import "./public/css/typography.css";
+@import "./public/css/components.css";
+
+@import "./src/components/auth/auth.module.css";
+@import "./src/components/home/home.module.css";
+@import "./src/components/quiz/quiz.module.css";
+@import "./src/components/result/result.module.css";
+
+body {
+  display: flex;
+  flex-direction: column;
+
+  overflow-x: hidden;
+  align-items: center;
+}
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+  transition:
+    background-color 0.5s ease,
+    color 0.5s ease;
+}

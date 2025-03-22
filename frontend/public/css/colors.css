@@ -1,0 +1,25 @@
+:root {
+  --overlay-background: #e6ebff;
+  --background: #ffffff;
+
+  --base-black: #111827;
+  --base-white: #ffffff;
+
+  --secondary-color: #8c8c8c;
+  --secondary-forms-stroke: #cbd5e1;
+  --secondary-image-color: #e7e7e7;
+
+  --light-text: #1e293b;
+  --light-secondary: #64748b;
+  --light-error: #ffdad7;
+  --light-success: #bbf7d0;
+
+  --indigo-color: #5856d6;
+  --light-utility-secondary: rgba(88, 86, 214, 0.5);
+
+  --primary-red: #ef4444;
+  --primary-green: #34c759;
+  --warning-background: #fef2f2;
+
+  --footer-color: #f3f3f3;
+}
