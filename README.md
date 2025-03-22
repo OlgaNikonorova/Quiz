@@ -11,7 +11,7 @@
 
 ### Frontend
 
-`cd example`
+`cd frontend`
 
 `npm i`
 
